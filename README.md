@@ -18,7 +18,7 @@ Analysis of Seattle housing market and recommendations for buying a house with s
     ```
 ### **`WindowsOS`** type the following commands :
 
-For `PowerShell` CLI :
+    For `PowerShell` CLI :
 
     ```PowerShell
     pyenv local 3.11.3
