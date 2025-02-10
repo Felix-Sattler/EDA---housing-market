@@ -1,4 +1,4 @@
-# EDA - housing-market
+# EDA: housing-market
 Analysis of Seattle housing market and recommendations for buying a house for 'Thomas Hansen'
 
 ## Requirements
