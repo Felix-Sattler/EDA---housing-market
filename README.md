@@ -51,7 +51,7 @@ Analysis of Seattle housing market and recommendations for buying a house for 'T
 - The column names may NOT be clear at times:
 
 
-# Task  
+## Task  
 
 
 EDA/statistical analysis 
@@ -59,12 +59,12 @@ EDA/statistical analysis
 Recommend three options for Client X
 
 
-# The clients
+## The clients
 
 
 _Note:  these clients are made up (any resemblance to present people is absolutely random), make assumptions about answers they would give to your questions. (i.e. How do you define a rich neighborhood? Take the zipcodes with most houses in upper 10% percentile..). Whatever assumptions you make, please write them explicitly in your presentation and notebook._
 
-| Name                | client | Characteristics                                                                                                                                                                 |
+| Name                | Client | Characteristics                                                                                                                                                                 |
 | ------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Thomas Hansen       | Buyer       | 5 kids, no money, wants nice (social) neighborhood, Timing?, Location?                                                                                                          |
 | Charles Christensen | Seller      | Invest with big returns, wondering about renovation?, which Neighborhood? Timing?                                                                                               |
