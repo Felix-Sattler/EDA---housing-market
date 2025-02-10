@@ -15,7 +15,7 @@ Analysis of Seattle housing market and recommendations for buying a house for 'T
 * install the required packages via using the requirements.txt
 
 
-    ```
+  
 ### **`WindowsOS`** type the following commands :
 
     For `PowerShell` CLI :
