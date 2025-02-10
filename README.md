@@ -4,11 +4,11 @@ Analysis of Seattle housing market and recommendations for buying a house for 'T
 ## Requirements
 
 - pyenv
-- python==3.11.3
+- python==3.13.0
 
 ## Setup
 
-* setting the python version locally to 3.11.3
+* setting the python version locally to 3.13.0
 * creating a virtual environment using the `venv` module
 * activate the newly created environment 
 * upgrading `pip` (optionally)
@@ -21,7 +21,7 @@ Analysis of Seattle housing market and recommendations for buying a house for 'T
     For `PowerShell` CLI :
 
     ```PowerShell
-    pyenv local 3.11.3
+    pyenv local 3.13.0
     python -m venv .venv
     .venv\Scripts\Activate.ps1
     pip install --upgrade pip
@@ -31,7 +31,7 @@ Analysis of Seattle housing market and recommendations for buying a house for 'T
     For `Git-Bash` CLI :
   
     ```BASH
-    pyenv local 3.11.3
+    pyenv local 3.13.0
     python -m venv .venv
     source .venv/Scripts/activate
     pip install --upgrade pip
